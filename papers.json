@@ -1,0 +1,1325 @@
+[
+  {
+    "id": "FaroLM26",
+    "year": 2026,
+    "type": "Journal",
+    "title": "Optimal Character Distance Sampling for Exact String Matching Through Set Cover Reformulation",
+    "authors": [
+      "Simone Faro",
+      "Thierry Lecroq",
+      "Francesco Pio Marino"
+    ],
+    "venue": "IEEE Access",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "FaroKLM26",
+    "year": 2026,
+    "type": "Conference",
+    "title": "A Bitwise Approach to SCER Matching in Indeterminate Strings",
+    "authors": [
+      "Simone Faro",
+      "Dominik Köppl",
+      "Thierry Lecroq",
+      "Francesco Pio Marino"
+    ],
+    "venue": "CPM 2026",
+    "location": "",
+    "selected": true
+  },
+  {
+    "id": "FaroKM26",
+    "year": 2026,
+    "type": "Conference",
+    "title": "Attractor Matching: A New Paradigm for Structural String Comparison",
+    "authors": [
+      "Simone Faro",
+      "Dominik Köppl",
+      "Francesco Pio Marino"
+    ],
+    "venue": "DCC 2026",
+    "location": "",
+    "selected": true
+  },
+  {
+    "id": "FaroKLM26",
+    "year": 2026,
+    "type": "Conference",
+    "title": "Enabling FM-Index for Elastic-Degenerate Strings via a New Min/Max Wavelet Tree",
+    "authors": [
+      "Simone Faro",
+      "Dominik Köppl",
+      "Thierry Lecroq",
+      "Francesco Pio Marino"
+    ],
+    "venue": "DCC 2026",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "FaroMMPS24",
+    "year": 2024,
+    "type": "Conference",
+    "title": "The Great Textual Hoax: Boosting Sampled String Matching with Fake Samples",
+    "authors": [
+      "Simone Faro",
+      "Francesco Pio Marino",
+      "Antonino Andrea Moschetto",
+      "Arianna Pavone",
+      "Antonio Scardace"
+    ],
+    "venue": "FUN 2024",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "FaroLMPS24",
+    "year": 2024,
+    "type": "Conference",
+    "title": "Improving Sampled Matching through Character Context Sampling",
+    "authors": [
+      "Simone Faro",
+      "Thierry Lecroq",
+      "Francesco Pio Marino",
+      "Arianna Pavone",
+      "Stefano Scafiti"
+    ],
+    "venue": "ICTCS 2024",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "FaroC24",
+    "year": 2024,
+    "type": "Conference",
+    "title": "A New Directly Accessible Compression Scheme",
+    "authors": [
+      "Simone Faro",
+      "Domenico Cantone"
+    ],
+    "venue": "ICTCS 2024",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "FaroMM24",
+    "year": 2024,
+    "type": "Conference",
+    "title": "Beyond Horspool: A Comparative Analysis in Sampled Matching",
+    "authors": [
+      "Simone Faro",
+      "Francesco Pio Marino",
+      "Antonino Andrea Moschetto"
+    ],
+    "venue": "PSC 2024",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "FaroS24",
+    "year": 2024,
+    "type": "Conference",
+    "title": "Refining SFDC Compression Scheme with Block Text Segmentation",
+    "authors": [
+      "Simone Faro",
+      "Alfio Spoto"
+    ],
+    "venue": "PSC 2024",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "PalmerFS24",
+    "year": 2024,
+    "type": "Conference",
+    "title": "Efficient Exact Online String Matching Through Linked Weak Factors",
+    "authors": [
+      "Matthew N. Palmer",
+      "Simone Faro",
+      "Stefano Scafiti"
+    ],
+    "venue": "SEA 2024",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "FaroLPS23",
+    "year": 2023,
+    "type": "Journal",
+    "title": "On the Longest Common Cartesian Substring Problem",
+    "authors": [
+      "Simone Faro",
+      "Thierry Lecroq",
+      "Kunsoo Park",
+      "Stefano Scafiti"
+    ],
+    "venue": "Comput. J.",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "FaroS23",
+    "year": 2023,
+    "type": "Journal",
+    "title": "Compact suffix automata representations for searching long patterns",
+    "authors": [
+      "Simone Faro",
+      "Stefano Scafiti"
+    ],
+    "venue": "TCS",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "FaroMP23",
+    "year": 2023,
+    "type": "Journal",
+    "title": "Improved characters distance sampling for online and offline text searching",
+    "authors": [
+      "Simone Faro",
+      "Francesco Pio Marino",
+      "Arianna Pavone"
+    ],
+    "venue": "TCS",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "FaroS22",
+    "year": 2022,
+    "type": "Journal",
+    "title": "A weak approach to suffix automata simulation for exact and approximate string matching",
+    "authors": [
+      "Simone Faro",
+      "Stefano Scafiti"
+    ],
+    "venue": "TCS",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "SongGRFLP21",
+    "year": 2021,
+    "type": "Journal",
+    "title": "Fast algorithms for single and multiple pattern Cartesian tree matching",
+    "authors": [
+      "Siwoo Song",
+      "Geonmo Gu",
+      "Cheol Ryu",
+      "Simone Faro",
+      "Thierry Lecroq",
+      "Kunsoo Park"
+    ],
+    "venue": "TCS",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "FaroS21",
+    "year": 2021,
+    "type": "Conference",
+    "title": "The Range Automaton: An Efficient Approach to Text-Searching",
+    "authors": [
+      "Simone Faro",
+      "Stefano Scafiti"
+    ],
+    "venue": "WORDS 2021",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "FaroMP21",
+    "year": 2021,
+    "type": "Conference",
+    "title": "Enhancing Characters Distance Text Sampling by Condensed Alphabets",
+    "authors": [
+      "Simone Faro",
+      "Francesco Pio Marino",
+      "Arianna Pavone"
+    ],
+    "venue": "ICTCS 2021",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "FaroS21",
+    "year": 2021,
+    "type": "Conference",
+    "title": "Pruned BNDM: Extending the Bit-Parallel Suffix Automata to Large Strings",
+    "authors": [
+      "Simone Faro",
+      "Stefano Scafiti"
+    ],
+    "venue": "ICTCS 2021",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "FaroMPS21",
+    "year": 2021,
+    "type": "Conference",
+    "title": "Towards an Efficient Text Sampling Approach for Exact and Approximate Matching",
+    "authors": [
+      "Simone Faro",
+      "Francesco Pio Marino",
+      "Arianna Pavone",
+      "Antonio Scardace"
+    ],
+    "venue": "PSC 2021",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "FaroS21",
+    "year": 2021,
+    "type": "Conference",
+    "title": "Efficient String Matching Based on a Two-Step Simulation of the Suffix Automaton",
+    "authors": [
+      "Simone Faro",
+      "Stefano Scafiti"
+    ],
+    "venue": "CIAA 2021",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "FaroMP20",
+    "year": 2020,
+    "type": "Journal",
+    "title": "Efficient Online String Matching Based on Characters Distance Text Sampling",
+    "authors": [
+      "Simone Faro",
+      "Francesco Pio Marino",
+      "Arianna Pavone"
+    ],
+    "venue": "Algorithmica",
+    "location": "",
+    "selected": true
+  },
+  {
+    "id": "CantoneFK20",
+    "year": 2020,
+    "type": "Journal",
+    "title": "The order-preserving pattern matching problem in practice",
+    "authors": [
+      "Domenico Cantone",
+      "Simone Faro",
+      "Oguzhan Külekci"
+    ],
+    "venue": "DAM",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CantoneFK20",
+    "year": 2020,
+    "type": "Conference",
+    "title": "Shape-Preserving Pattern Matching",
+    "authors": [
+      "Domenico Cantone",
+      "Simone Faro",
+      "Oguzhan Külekci"
+    ],
+    "venue": "ICTCS 2020",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CantoneFS20",
+    "year": 2020,
+    "type": "Conference",
+    "title": "Bit-Layers Text Encoding for Efficient Text Processing",
+    "authors": [
+      "Domenico Cantone",
+      "Simone Faro",
+      "Stefano Scafiti"
+    ],
+    "venue": "SOFSEM 2020",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "FaroMS20",
+    "year": 2020,
+    "type": "Conference",
+    "title": "Fast-Insertion-Sort: a New Family of Efficient Variants of the Insertion-Sort Algorithm",
+    "authors": [
+      "Simone Faro",
+      "Francesco Pio Marino",
+      "Stefano Scafiti"
+    ],
+    "venue": "SOFSEM 2020",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "FaroLP20",
+    "year": 2020,
+    "type": "Conference",
+    "title": "Fast Practical Computation of the Longest Common Cartesian Substrings of Two Strings",
+    "authors": [
+      "Simone Faro",
+      "Thierry Lecroq",
+      "Kunsoo Park"
+    ],
+    "venue": "PSC 2020",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "FaroM20",
+    "year": 2020,
+    "type": "Conference",
+    "title": "Reducing Time and Space in Indexed String Matching by Characters Distance Text Sampling",
+    "authors": [
+      "Simone Faro",
+      "Francesco Pio Marino"
+    ],
+    "venue": "PSC 2020",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CantoneFP20",
+    "year": 2020,
+    "type": "Conference",
+    "title": "Sequence Searching Allowing for Non-Overlapping Adjacent Unbalanced Translocations",
+    "authors": [
+      "Domenico Cantone",
+      "Simone Faro",
+      "Arianna Pavone"
+    ],
+    "venue": "WABI 2020",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "GuSFLP20",
+    "year": 2020,
+    "type": "Conference",
+    "title": "Fast Multiple Pattern Cartesian Tree Matching",
+    "authors": [
+      "Geonmo Gu",
+      "Siwoo Song",
+      "Simone Faro",
+      "Thierry Lecroq",
+      "Kunsoo Park"
+    ],
+    "venue": "WALCOM 2020",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CantoneFP19",
+    "year": 2019,
+    "type": "Journal",
+    "title": "Linear and Efficient String Matching Algorithms Based on Weak Factor Recognition",
+    "authors": [
+      "Domenico Cantone",
+      "Simone Faro",
+      "Arianna Pavone"
+    ],
+    "venue": "JEA",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "FaroP19",
+    "year": 2019,
+    "type": "Conference",
+    "title": "Alignment of Sequences Allowing for Non-overlapping Unbalanced Translocations of Adjacent Factors",
+    "authors": [
+      "Simone Faro",
+      "Arianna Pavone"
+    ],
+    "venue": "IWBBIO 2019",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "FaroP19a",
+    "year": 2019,
+    "type": "Conference",
+    "title": "Flexible and Efficient Algorithms for Abelian Matching in Genome Sequence",
+    "authors": [
+      "Simone Faro",
+      "Arianna Pavone"
+    ],
+    "venue": "IWBBIO 2019",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "SongRFLP19",
+    "year": 2019,
+    "type": "Conference",
+    "title": "Fast Cartesian Tree Matching",
+    "authors": [
+      "Siwoo Song",
+      "Cheol Ryu",
+      "Simone Faro",
+      "Thierry Lecroq",
+      "Kunsoo Park"
+    ],
+    "venue": "SPIRE 2019",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "FaroP18",
+    "year": 2018,
+    "type": "Journal",
+    "title": "An Efficient Skip-Search Approach to Swap Matching",
+    "authors": [
+      "Simone Faro",
+      "Arianna Pavone"
+    ],
+    "venue": "Comput. J.",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CatalanoRF18",
+    "year": 2018,
+    "type": "Journal",
+    "title": "Verifiable pattern matching on outsourced texts",
+    "authors": [
+      "Dario Catalano",
+      "Mario Di Raimondo",
+      "Simone Faro"
+    ],
+    "venue": "JDA",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "ChhabraFKT17",
+    "year": 2017,
+    "type": "Journal",
+    "title": "Engineering order-preserving pattern matching with SIMD parallelism",
+    "authors": [
+      "Tamanna Chhabra",
+      "Simone Faro",
+      "Oguzhan Külekci",
+      "Jorma Tarhio"
+    ],
+    "venue": "SPE",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CantoneFP17",
+    "year": 2017,
+    "type": "Conference",
+    "title": "Speeding Up String Matching by Weak Factor Recognition",
+    "authors": [
+      "Domenico Cantone",
+      "Simone Faro",
+      "Arianna Pavone"
+    ],
+    "venue": "PSC 2017",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "Faro16",
+    "year": 2016,
+    "type": "Conference",
+    "title": "A Very Fast String Matching Algorithm Based on Condensed Alphabets",
+    "authors": [
+      "Simone Faro"
+    ],
+    "venue": "AAIM 2016",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "FaroK16",
+    "year": 2016,
+    "type": "Conference",
+    "title": "Efficient Algorithms for the Order Preserving Pattern Matching Problem",
+    "authors": [
+      "Simone Faro",
+      "Oguzhan Külekci"
+    ],
+    "venue": "AAIM 2016",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "Faro16",
+    "year": 2016,
+    "type": "Conference",
+    "title": "Evaluation and Improvement of Fast Algorithms for Exact Matching on Genome Sequences",
+    "authors": [
+      "Simone Faro"
+    ],
+    "venue": "AlCoB 2016",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CatalanoRF16",
+    "year": 2016,
+    "type": "Conference",
+    "title": "Verifiable Pattern Matching on Outsourced Texts",
+    "authors": [
+      "Dario Catalano",
+      "Mario Di Raimondo",
+      "Simone Faro"
+    ],
+    "venue": "SCN 2016",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "FaroLBMM16",
+    "year": 2016,
+    "type": "Conference",
+    "title": "The String Matching Algorithms Research Tool",
+    "authors": [
+      "Simone Faro",
+      "Thierry Lecroq",
+      "Stefano Borzi",
+      "Simone Di Mauro",
+      "Alessandro Maggio"
+    ],
+    "venue": "PSC 2016",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "AdasBFMK15",
+    "year": 2015,
+    "type": "Conference",
+    "title": "Nucleotide Sequence Alignment and Compression via Shortest Unique Substring",
+    "authors": [
+      "Boran Adas",
+      "Ersin Bayraktar",
+      "Simone Faro",
+      "Ibraheem Elsayed Moustafa",
+      "Oguzhan Külekci"
+    ],
+    "venue": "IWBBIO 2015",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CantoneFK15",
+    "year": 2015,
+    "type": "Conference",
+    "title": "An Efficient Skip-Search Approach to the Order-Preserving Pattern Matching Problem",
+    "authors": [
+      "Domenico Cantone",
+      "Simone Faro",
+      "Oguzhan Külekci"
+    ],
+    "venue": "PSC 2015",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "FaroP15",
+    "year": 2015,
+    "type": "Conference",
+    "title": "Refined Tagging of Complex Verbal Phrases for the Italian Language",
+    "authors": [
+      "Simone Faro",
+      "Arianna Pavone"
+    ],
+    "venue": "PSC 2015",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CantoneFG14",
+    "year": 2014,
+    "type": "Journal",
+    "title": "Text searching allowing for inversions and translocations of factors",
+    "authors": [
+      "Domenico Cantone",
+      "Simone Faro",
+      "Emanuele Giaquinta"
+    ],
+    "venue": "DAM",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CantoneF14",
+    "year": 2014,
+    "type": "Journal",
+    "title": "Fast shortest-paths algorithms in the presence of few destinations of negative-weight arcs",
+    "authors": [
+      "Domenico Cantone",
+      "Simone Faro"
+    ],
+    "venue": "JDA",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "FaroK14",
+    "year": 2014,
+    "type": "Journal",
+    "title": "Fast and flexible packed string matching",
+    "authors": [
+      "Simone Faro",
+      "Oguzhan Külekci"
+    ],
+    "venue": "JDA",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CantoneF14a",
+    "year": 2014,
+    "type": "Journal",
+    "title": "Improved and self-tuned occurrence heuristics",
+    "authors": [
+      "Domenico Cantone",
+      "Simone Faro"
+    ],
+    "venue": "JDA",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "BorziFP14",
+    "year": 2014,
+    "type": "Conference",
+    "title": "Automatic Extraction of Semantic Relations by Using Web Statistical Information",
+    "authors": [
+      "Valeria Borzì",
+      "Simone Faro",
+      "Arianna Pavone"
+    ],
+    "venue": "ICCS 2014",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CantoneF14",
+    "year": 2014,
+    "type": "Conference",
+    "title": "Efficient Online Abelian Pattern Matching in Strings by Simulating Reactive Multi-Automata",
+    "authors": [
+      "Domenico Cantone",
+      "Simone Faro"
+    ],
+    "venue": "PSC 2014",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "FaroL13",
+    "year": 2013,
+    "type": "Journal",
+    "title": "The exact online string matching problem: A review of the most recent results",
+    "authors": [
+      "Simone Faro",
+      "Thierry Lecroq"
+    ],
+    "venue": "ACM CSUR",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CantoneCF13",
+    "year": 2013,
+    "type": "Journal",
+    "title": "Efficient string-matching allowing for non-overlapping inversions",
+    "authors": [
+      "Domenico Cantone",
+      "Salvatore Cristofaro",
+      "Simone Faro"
+    ],
+    "venue": "TCS",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "FaroK13",
+    "year": 2013,
+    "type": "Conference",
+    "title": "Fast Packed String Matching for Short Patterns",
+    "authors": [
+      "Simone Faro",
+      "Oguzhan Külekci"
+    ],
+    "venue": "ALENEX 2013",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "Faro13",
+    "year": 2013,
+    "type": "Conference",
+    "title": "Swap Matching in Strings by Simulating Reactive Automata",
+    "authors": [
+      "Simone Faro"
+    ],
+    "venue": "PSC 2013",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "FaroK13",
+    "year": 2013,
+    "type": "Conference",
+    "title": "Towards a Very Fast Multiple String Matching Algorithm for Short Patterns",
+    "authors": [
+      "Simone Faro",
+      "Oguzhan Külekci"
+    ],
+    "venue": "PSC 2013",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CantoneF13",
+    "year": 2013,
+    "type": "Conference",
+    "title": "Improved and Self-Tuned Occurrence Heuristics",
+    "authors": [
+      "Domenico Cantone",
+      "Simone Faro"
+    ],
+    "venue": "PSC 2013",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CantoneFG12",
+    "year": 2012,
+    "type": "Journal",
+    "title": "A compact representation of nondeterministic (suffix) automata for the bit-parallel approach",
+    "authors": [
+      "Domenico Cantone",
+      "Simone Faro",
+      "Emanuele Giaquinta"
+    ],
+    "venue": "I&C",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CampanelliCFG12",
+    "year": 2012,
+    "type": "Journal",
+    "title": "Pattern Matching with Swaps in Practice",
+    "authors": [
+      "Matteo Campanelli",
+      "Domenico Cantone",
+      "Simone Faro",
+      "Emanuele Giaquinta"
+    ],
+    "venue": "IJFCS",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CantoneFG12",
+    "year": 2012,
+    "type": "Journal",
+    "title": "Adapting Boyer-Moore-like Algorithms for Searching Huffman Encoded Texts",
+    "authors": [
+      "Domenico Cantone",
+      "Simone Faro",
+      "Emanuele Giaquinta"
+    ],
+    "venue": "IJFCS",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CantoneFG12",
+    "year": 2012,
+    "type": "Journal",
+    "title": "On the bit-parallel simulation of the nondeterministic Aho-Corasick and suffix automata for a set of patterns",
+    "authors": [
+      "Domenico Cantone",
+      "Simone Faro",
+      "Emanuele Giaquinta"
+    ],
+    "venue": "JDA",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "FaroL12",
+    "year": 2012,
+    "type": "Conference",
+    "title": "Fast searching in biological sequences using multiple hash functions",
+    "authors": [
+      "Simone Faro",
+      "Thierry Lecroq"
+    ],
+    "venue": "BIBE 2012",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "FaroK12",
+    "year": 2012,
+    "type": "Conference",
+    "title": "Fast Multiple String Matching Using Streaming SIMD Extensions Technology",
+    "authors": [
+      "Simone Faro",
+      "Oguzhan Külekci"
+    ],
+    "venue": "SPIRE 2012",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "FaroL12",
+    "year": 2012,
+    "type": "Conference",
+    "title": "A Multiple Sliding Windows Approach to Speed Up String Matching Algorithms",
+    "authors": [
+      "Simone Faro",
+      "Thierry Lecroq"
+    ],
+    "venue": "SEA 2012",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "FaroL12",
+    "year": 2012,
+    "type": "Conference",
+    "title": "A Fast Suffix Automata Based Algorithm for Exact Online String Matching",
+    "authors": [
+      "Simone Faro",
+      "Thierry Lecroq"
+    ],
+    "venue": "CIAA 2012",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "GrabowskiFG11",
+    "year": 2011,
+    "type": "Journal",
+    "title": "String matching with inversions and translocations in linear average time (most of the time)",
+    "authors": [
+      "Szymon Grabowski",
+      "Simone Faro",
+      "Emanuele Giaquinta"
+    ],
+    "venue": "IPL",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CantoneCF11",
+    "year": 2011,
+    "type": "Conference",
+    "title": "Efficient Matching of Biological Sequences Allowing for Non-overlapping Inversions",
+    "authors": [
+      "Domenico Cantone",
+      "Salvatore Cristofaro",
+      "Simone Faro"
+    ],
+    "venue": "CPM 2011",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "FaroL11",
+    "year": 2011,
+    "type": "Conference",
+    "title": "2001-2010: Ten Years of Exact String Matching Algorithms",
+    "authors": [
+      "Simone Faro",
+      "Thierry Lecroq"
+    ],
+    "venue": "PSC 2011",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CantoneFG10",
+    "year": 2010,
+    "type": "Conference",
+    "title": "A Compact Representation of Nondeterministic (Suffix) Automata for the Bit-Parallel Approach",
+    "authors": [
+      "Domenico Cantone",
+      "Simone Faro",
+      "Emanuele Giaquinta"
+    ],
+    "venue": "CPM 2010",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CantoneFG10",
+    "year": 2010,
+    "type": "Conference",
+    "title": "Bit-(Parallelism)\\(^\\mbox2\\): Getting to the Next Level of Parallelism",
+    "authors": [
+      "Domenico Cantone",
+      "Simone Faro",
+      "Emanuele Giaquinta"
+    ],
+    "venue": "FUN 2010",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "FaroP10",
+    "year": 2010,
+    "type": "Conference",
+    "title": "Ant-CSP: An Ant Colony Optimization Algorithm for the Closest String Problem",
+    "authors": [
+      "Simone Faro",
+      "Elisa Pappalardo"
+    ],
+    "venue": "SOFSEM 2010",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CantoneFG10",
+    "year": 2010,
+    "type": "Conference",
+    "title": "Approximate String Matching Allowing for Inversions and Translocations",
+    "authors": [
+      "Domenico Cantone",
+      "Simone Faro",
+      "Emanuele Giaquinta"
+    ],
+    "venue": "PSC 2010",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CantoneCF10",
+    "year": 2010,
+    "type": "Conference",
+    "title": "A Space-Efficient Implementation of the Good-Suffix Heuristic",
+    "authors": [
+      "Domenico Cantone",
+      "Salvatore Cristofaro",
+      "Simone Faro"
+    ],
+    "venue": "PSC 2010",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "FaroL09",
+    "year": 2009,
+    "type": "Journal",
+    "title": "Efficient Variants of the Backward-Oracle-Matching Algorithm",
+    "authors": [
+      "Simone Faro",
+      "Thierry Lecroq"
+    ],
+    "venue": "IJFCS",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CantoneCF09",
+    "year": 2009,
+    "type": "Journal",
+    "title": "New Efficient Bit-Parallel Algorithms for the (delta, alpha)-Matching Problem with Applications in Music Information Retrieval",
+    "authors": [
+      "Domenico Cantone",
+      "Salvatore Cristofaro",
+      "Simone Faro"
+    ],
+    "venue": "IJFCS",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "FaroL09",
+    "year": 2009,
+    "type": "Conference",
+    "title": "An Efficient Matching Algorithm for Encoded DNA Sequences and Binary Strings",
+    "authors": [
+      "Simone Faro",
+      "Thierry Lecroq"
+    ],
+    "venue": "CPM 2009",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CampanelliCF09",
+    "year": 2009,
+    "type": "Conference",
+    "title": "A New Algorithm for Efficient Pattern Matching with Swaps",
+    "authors": [
+      "Matteo Campanelli",
+      "Domenico Cantone",
+      "Simone Faro"
+    ],
+    "venue": "IWOCA 2009",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CantoneF09",
+    "year": 2009,
+    "type": "Conference",
+    "title": "Pattern Matching with Swaps for Short Patterns in Linear Time",
+    "authors": [
+      "Domenico Cantone",
+      "Simone Faro"
+    ],
+    "venue": "SOFSEM 2009",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CantoneFG09",
+    "year": 2009,
+    "type": "Conference",
+    "title": "Adapting Boyer-Moore-Like Algorithms for Searching Huffman Encoded Texts",
+    "authors": [
+      "Domenico Cantone",
+      "Simone Faro",
+      "Emanuele Giaquinta"
+    ],
+    "venue": "PSC 2009",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CampanelliCFG09",
+    "year": 2009,
+    "type": "Conference",
+    "title": "An Efficient Algorithm for Approximate Pattern Matching with Swaps",
+    "authors": [
+      "Matteo Campanelli",
+      "Domenico Cantone",
+      "Simone Faro",
+      "Emanuele Giaquinta"
+    ],
+    "venue": "PSC 2009",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CantoneCF08",
+    "year": 2008,
+    "type": "Journal",
+    "title": "On Some Combinatorial Problems Concerning the Harmonic Structure of Musical Chord Sequences",
+    "authors": [
+      "Domenico Cantone",
+      "Salvatore Cristofaro",
+      "Simone Faro"
+    ],
+    "venue": "IJFCS",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CantoneCFG08",
+    "year": 2008,
+    "type": "Conference",
+    "title": "Finite State Models for the Generation of Large Corpora of Natural Language Texts",
+    "authors": [
+      "Domenico Cantone",
+      "Salvatore Cristofaro",
+      "Simone Faro",
+      "Emanuele Giaquinta"
+    ],
+    "venue": "FSMNLP 2008",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "FaroL08",
+    "year": 2008,
+    "type": "Conference",
+    "title": "Efficient Variants of the Backward-Oracle-Matching Algorithm",
+    "authors": [
+      "Simone Faro",
+      "Thierry Lecroq"
+    ],
+    "venue": "PSC 2008",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CantoneCF08",
+    "year": 2008,
+    "type": "Conference",
+    "title": "New Efficient Bit-Parallel Algorithms for the delta-Matching Problem with alpha-Bounded Gaps in Musical Sequences",
+    "authors": [
+      "Domenico Cantone",
+      "Salvatore Cristofaro",
+      "Simone Faro"
+    ],
+    "venue": "PSC 2008",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CantoneF06",
+    "year": 2006,
+    "type": "Journal",
+    "title": "A Space Efficient Bit-parallel Algorithm for the Multiple String Matching Problem",
+    "authors": [
+      "Domenico Cantone",
+      "Simone Faro"
+    ],
+    "venue": "IJFCS",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CantoneCF06",
+    "year": 2006,
+    "type": "Conference",
+    "title": "On some combinatorial problems concerning the harmonic structure of musical chord sequences",
+    "authors": [
+      "Domenico Cantone",
+      "Salvatore Cristofaro",
+      "Simone Faro"
+    ],
+    "venue": "PSC 2006",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CantoneF05",
+    "year": 2005,
+    "type": "Journal",
+    "title": "Fast-Search Algorithms: New Efficient Variants of the Boyer-Moore Pattern-Matching Algorithm",
+    "authors": [
+      "Domenico Cantone",
+      "Simone Faro"
+    ],
+    "venue": "JALC",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CantoneCF05",
+    "year": 2005,
+    "type": "Conference",
+    "title": "On Tuning the (delta, alpha)-Sequential-Sampling Algorithm for delta-Approximate Matching with Alpha-Bounded Gaps in Musical Sequences",
+    "authors": [
+      "Domenico Cantone",
+      "Salvatore Cristofaro",
+      "Simone Faro"
+    ],
+    "venue": "ISMIR 2005",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CantoneCF05a",
+    "year": 2005,
+    "type": "Conference",
+    "title": "Solving the (delta, alpha)-Approximate Matching Problem Under Transposition Invariance in Musical Sequences",
+    "authors": [
+      "Domenico Cantone",
+      "Salvatore Cristofaro",
+      "Simone Faro"
+    ],
+    "venue": "ISMIR 2005",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CantoneF05",
+    "year": 2005,
+    "type": "Conference",
+    "title": "A space efficient bit-parallel algorithm for the multiple string matching problem",
+    "authors": [
+      "Domenico Cantone",
+      "Simone Faro"
+    ],
+    "venue": "PSC 2005",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CantoneCF05",
+    "year": 2005,
+    "type": "Conference",
+    "title": "An Efficient Algorithm for alpha-Approximate Matching with delta-Bounded Gaps in Musical Sequences",
+    "authors": [
+      "Domenico Cantone",
+      "Salvatore Cristofaro",
+      "Simone Faro"
+    ],
+    "venue": "WEA 2005",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CantoneF04",
+    "year": 2004,
+    "type": "Journal",
+    "title": "Two-Levels-Greedy: a generalization of Dijkstra's shortest path algorithm",
+    "authors": [
+      "Domenico Cantone",
+      "Simone Faro"
+    ],
+    "venue": "ENDM",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CantoneF04",
+    "year": 2004,
+    "type": "Conference",
+    "title": "Two-Levels-Greedy: A Generalized of Dijkstra's Shortest Path Algorithm",
+    "authors": [
+      "Domenico Cantone",
+      "Simone Faro"
+    ],
+    "venue": "CTW 2004",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CantoneCF04",
+    "year": 2004,
+    "type": "Conference",
+    "title": "Efficient Algorithms for the delta-Approximate String Matching Problem in Musical Sequences",
+    "authors": [
+      "Domenico Cantone",
+      "Salvatore Cristofaro",
+      "Simone Faro"
+    ],
+    "venue": "PSC 2004",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CantoneF03",
+    "year": 2003,
+    "type": "Conference",
+    "title": "Forward-Fast-Search: Another Fast Variant of the Boyer-Moore String Matching Algorithm",
+    "authors": [
+      "Domenico Cantone",
+      "Simone Faro"
+    ],
+    "venue": "PSC 2003",
+    "location": "",
+    "selected": false
+  },
+  {
+    "id": "CantoneF03",
+    "year": 2003,
+    "type": "Conference",
+    "title": "Fast-Search: A New Efficient Variant of the Boyer-Moore String Matching Algorithm",
+    "authors": [
+      "Domenico Cantone",
+      "Simone Faro"
+    ],
+    "venue": "WEA 2003",
+    "location": "",
+    "selected": false
+  }
+]

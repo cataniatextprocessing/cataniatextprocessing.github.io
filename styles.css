@@ -1,0 +1,30 @@
+/* Global reset */
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    background: #faf9f6;
+    color: #1f1d1a;
+    font-family: "Spectral", Georgia, serif;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+}
+
+::selection {
+    background: #1d3c70;
+    color: #faf9f6;
+}
+
+a {
+    color: inherit;
+}
+
+image-slot {
+    display: block;
+}

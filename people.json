@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Domenico Cantone",
+        "role": "FULL PROFESSOR",
+        "photo": "img/photos/cantoned.jpg",
+        "description": "Full Professor, University of Catania (DMI). String matching, compression and the algorithmics of text.",
+        "website": "https://www.dmi.unict.it/cantone/",
+        "memberStatus": "current"
+    },
+    {
+        "name": "Simone Faro",
+        "role": "ASSOCIATE PROFESSOR",
+        "photo": "img/photos/faros.jpg",
+        "description": "Associate Professor, University of Catania (DMI). String matching, compression and the algorithmics of text.",
+        "website": "https://www.dmi.unict.it/faro/",
+        "memberStatus": "current"
+    },
+    {
+        "name": "Francesco Pio Marino",
+        "role": "PHD STUDENT",
+        "photo": "img/photos/marinofp.jpg",
+        "description": "Joint PhD between Catania and Rouen. String algorithms, data compression and pattern matching.",
+        "website": "https://marfra99x.github.io",
+        "memberStatus": "current"
+    },
+    {
+        "name": "Dominik Köppl",
+        "role": "ASSOCIATE PROFESSOR",
+        "memberStatus": "collaborator",
+        "photo": "",
+        "description": "Frequent collaborator in string algorithms and compression.",
+        "website": "#"
+    },
+    {
+        "name": "Thierry Lecroq",
+        "role": "FULL PROFESSOR",
+        "memberStatus": "collaborator",
+        "photo": "",
+        "description": "Frequent collaborator in string algorithms and compression.",
+        "website": "#"
+    },
+    {
+        "name": "Arianna Pavone",
+        "role": "ASSISTANT PROFESSOR",
+        "memberStatus": "collaborator",
+        "photo": "",
+        "description": "Frequent collaborator in string algorithms and compression.",
+        "website": "#"
+    },
+    {
+        "name": "Jorma Tarhio",
+        "role": "EMERITUS PROFESSOR",
+        "memberStatus": "collaborator",
+        "photo": "",
+        "description": "Frequent collaborator in string algorithms and compression.",
+        "website": "#"
+    },
+    {
+        "name": "Stefano Scafiti",
+        "role": "FORMER PHD STUDENT",
+        "photo": "",
+        "description": "#",
+        "website": "...",
+        "memberStatus": "past"
+    },
+    {
+        "name": "Antonio Scardace",
+        "role": "FORMER MASTER STUDENT",
+        "photo": "",
+        "description": "#",
+        "website": "...",
+        "memberStatus": "past"
+    }
+]
