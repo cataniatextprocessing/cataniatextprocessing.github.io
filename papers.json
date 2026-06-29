@@ -14,6 +14,20 @@
     "selected": false
   },
   {
+    "id": "LecroqLM26",
+    "year": 2026,
+    "type": "Conference",
+    "title": "Computation of Periods and Covers Using Sampling",
+    "authors": [
+      "Thierry Lecroq",
+      "Arnaud Lefebvre",
+      "Francesco Pio Marino"
+    ],
+    "venue": "PSC 2026",
+    "location": "",
+    "selected": true
+  },
+  {
     "id": "FaroKLM26",
     "year": 2026,
     "type": "Conference",
