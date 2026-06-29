@@ -56,6 +56,38 @@
         "website": "#"
     },
     {
+        "name": "Kunsoo Park",
+        "role": "FULL PROFESSOR",
+        "memberStatus": "collaborator",
+        "photo": "",
+        "description": "Frequent collaborator in string algorithms and compression.",
+        "website": "#"
+    },
+    {
+        "name": "Oguzhan Külekci",
+        "role": "ASSOCIATE PROFESSOR",
+        "memberStatus": "collaborator",
+        "photo": "",
+        "description": "Frequent collaborator in string algorithms and compression.",
+        "website": "#"
+    },
+    {
+        "name": "Emanuele Giaquinta",
+        "role": "FORMER PHD STUDENT",
+        "memberStatus": "past",
+        "photo": "",
+        "description": "Frequent collaborator in string algorithms and compression.",
+        "website": "#"
+    },
+    {
+        "name": "Salvatore Cristofaro",
+        "role": "FORMER PHD STUDENT",
+        "memberStatus": "past",
+        "photo": "",
+        "description": "Frequent collaborator in string algorithms and compression.",
+        "website": "#"
+    },
+    {
         "name": "Stefano Scafiti",
         "role": "FORMER PHD STUDENT",
         "photo": "",
